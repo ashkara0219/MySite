@@ -21,10 +21,9 @@ import porfolioImage7 from '../images/portfolio/bahpresentation.jpg';
 import porfolioImage8 from '../images/portfolio/Volunteering.jpg';
 import porfolioImage9 from '../images/portfolio/tmcfresume.jpg';
 import porfolioImage10 from '../images/portfolio/NAAHP Ambient.jpg';
-/*import porfolioImage11 from '../images/portfolio/portfolio-11.jpg';*/
 import profilepic from '../images/profilepic.jpg';
 import testimonialImage from '../images/testimonial.webp';
-//import bsupic from '../images/ahmed.jpg';
+
 
 import {
   About,
