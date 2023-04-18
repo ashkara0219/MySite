@@ -44,7 +44,7 @@ import React from 'react';
  * Page meta data
  */
 export const homePageMeta: HomepageMeta = {
-  title: 'Ahmed Ashkar',
+  title: 'Ahmed Ashkar ',
   description: "Ahmed Ashkar's Personal Website",
 };
 
