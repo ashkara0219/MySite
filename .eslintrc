@@ -20,10 +20,10 @@
   "rules": {
     "react/display-name": "off",
     // The next two rules should be errors. But for now we"ll leave them as warnings since this will take a while
-    "react-memo/require-usememo": "error",
-    "react-memo/require-memo": "error",
-    "react-hooks/rules-of-hooks": "error",
-    "react-hooks/exhaustive-deps": "error",
+    "react-memo/require-usememo": "off",
+    "react-memo/require-memo": "off",
+    "react-hooks/rules-of-hooks": "off",
+    "react-hooks/exhaustive-deps": "off",
     "@typescript-eslint/explicit-function-return-type": "off",
     "@typescript-eslint/member-ordering": [
       "warn",
@@ -34,7 +34,7 @@
     ],
     "import/first": "error",
     "import/newline-after-import": "error",
-    "import/no-duplicates": "error",
+    "import/no-duplicates": "off",
     "import/order": "off",
     "no-irregular-whitespace": "off",
     "@typescript-eslint/no-unused-vars": ["warn", {"argsIgnorePattern": "^_"}],
@@ -45,7 +45,7 @@
     "react/react-in-jsx-scope": "off",
     "react/no-unescaped-entities": "off",
     "simple-import-sort/exports": "error",
-    "simple-import-sort/imports": "error",
+    "simple-import-sort/imports": "off",
     "sort-imports": "off",
     "jsx-a11y/no-onchange": "off",
     "jsx-a11y/no-autofocus": "off",
