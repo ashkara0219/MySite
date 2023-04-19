@@ -10,7 +10,7 @@ import {
 
 import GithubIcon from '../components/Icon/GithubIcon';
 import LinkedInIcon from '../components/Icon/LinkedInIcon';
-import heroImage from '../images/header-background.webp';
+import heroImage from '../images/header-bg.webp';
 import porfolioImage1 from '../images/portfolio/smartmirror.jpg';
 import porfolioImage2 from '../images/portfolio/Ahmed pitch.jpg';
 import porfolioImage3 from '../images/portfolio/NSBEDCCS.jpg';
@@ -100,7 +100,7 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `I graduated from Bowie State University in 2021 with a Bachelors in Computer Science and am actively pursuing a Masters Degree in Data Science. Since graduating, I have been a Technology Consultant implementing data analytics solutions on various engagements with Fortune 500 companies. I am an avid learner and technology enthusiast with a passion for personal growth.`,
+  description: `I graduated from Bowie State University in 2021 with a Bachelors in Computer Science. Since graduating, I have been a Technology Consultant implementing data analytics solutions on various engagements with Fortune 500 companies. I am an avid learner and technology enthusiast with a passion for personal growth.`,
   aboutItems: [
     {label: 'Location', text: 'Greenbelt, MD', Icon: MapIcon},
     {label: 'Age', text: '24', Icon: CalendarIcon},
